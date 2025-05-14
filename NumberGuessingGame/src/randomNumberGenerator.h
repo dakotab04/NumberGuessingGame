@@ -1,0 +1,7 @@
+#ifndef RANDOMNUMBERGENERATOR_H
+#define RANDOMNUMBERGENERATOR_H
+
+int randomNumberGenerator();
+
+#endif // !RANDOMNUMBERGENERATOR_H
+
